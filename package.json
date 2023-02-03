@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-project",
+  "version": "1.0.0",
+  "description": "This is Burger Restaurant website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyaAkhundov/Restaurant-Project.git"
+  },
+  "author": "Ziya Akhundov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyaAkhundov/Restaurant-Project/issues"
+  },
+  "homepage": "https://github.com/ZiyaAkhundov/Restaurant-Project#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  }
+}
