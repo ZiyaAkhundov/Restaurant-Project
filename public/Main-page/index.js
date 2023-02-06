@@ -22,3 +22,9 @@ $(window).scroll(function() {
         $("#navbarTransparent").removeClass("visible")
     }
 });
+// $(document).ready(function() {
+//        $(window).resize(function() {
+//           var bodyheight = $(window).height();
+//           $("#headerContainer").height(bodyheight);
+//        }); 
+//     });
