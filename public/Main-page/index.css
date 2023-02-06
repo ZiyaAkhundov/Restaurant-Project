@@ -55,7 +55,6 @@ a{
     opacity: 0.87;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
     height: 100vh;
-    /* padding-bottom: 132px; */
 }
 .header-main{
     position:relative;
@@ -128,7 +127,6 @@ a{
     opacity: 0;
     top: 0;
     left:0;
-    /* transform: scaleY(0); */
     transform: translateY(-100px);
     transition: transform .5s;
 }
@@ -159,9 +157,6 @@ a{
     }
     .header-image img{
         width: 50%;
-    }
-    #headerContainer{
-        padding-bottom: 200px;
     }
     .header-image-second{
         width: 30% !important;
